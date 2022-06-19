@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Girindra Mohan
-- 👀 I’m interested in ... Linux, Unix, Open-Source , Docker , Kubernetes , Terraform 
+- 👀 I’m interested in ... Linux, Unix, Open-Source , Docker , Kubernetes , Terraform , Jenkins
 - 🌱 I’m currently learning ... Postgress , 
-- 💞️ I’m looking to collaborate on ... 
+- 💞️ I’m looking to collaborate on ... Cloud Native Technologies .
 - 📫 How to reach me ... girindrag@gmail.com
 
 <!---
